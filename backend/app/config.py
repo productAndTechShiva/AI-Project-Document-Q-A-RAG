@@ -1,0 +1,9 @@
+OLLAMA_BASE_URL = "http://localhost:11434"
+
+LLM_MODEL = "llama3.2:3b"
+
+EMBEDDING_MODEL = "nomic-embed-text"
+
+UPLOAD_DIR = "uploads"
+
+ALLOWED_FILE_TYPES = [".pdf"]
