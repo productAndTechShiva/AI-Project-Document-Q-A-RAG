@@ -42,6 +42,9 @@ Organizations rely on large volumes of documents to store important information.
 * Answer size
 * Source quality indicators
 
+### Screenshots
+<img width="3867" height="2732" alt="combined_img" src="https://github.com/user-attachments/assets/78db09fc-8b12-42d1-804c-0027248c60c5" />
+
 
 # RAG Workflow
 
