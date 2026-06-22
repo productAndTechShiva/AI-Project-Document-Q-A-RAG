@@ -1,10 +1,10 @@
 # 📄 Document Q&A Assistant (RAG)
 
-## Overview
+# Project Overview
 
 Document Q&A Assistant is an AI-powered application that enables users to upload PDF documents and ask questions about their content. Built using Retrieval-Augmented Generation (RAG), the system combines semantic search and LLMs to deliver accurate, context-aware answers from uploaded documents.
 
-# Business Problem
+# Problem Statement
 
 Organizations rely on large volumes of documents to store important information. However, finding relevant answers quickly can be difficult, and traditional keyword search often produces incomplete or irrelevant results.
 
